@@ -1,14 +1,14 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '1272e9260a1248d39d4e082498f2c50b',
+  rootNotionPageId: '48b547bca08a4e55b9cc451cca3129de',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '吴毅的技术博客',
-  domain: 'https://www.notion.so/1272e9260a1248d39d4e082498f2c50b',
+  name: '吴毅的博客',
+  domain: 'https://www.notion.so/48b547bca08a4e55b9cc451cca3129de',
   author: '吴毅',
 
   // open graph metadata (optional)
@@ -17,9 +17,9 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  //twitter: 'transitive_bs',
+  github: 'yuanhenglizhen',
+  //linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
