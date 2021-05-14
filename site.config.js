@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '2fb3acb272774b6d91ac7b860cf7b7ba',
+  rootNotionPageId: '48b547bca08a4e55b9cc451cca3129de',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '吴毅的博客',
-  domain: 'https://www.notion.so/2fb3acb272774b6d91ac7b860cf7b7ba',
+  domain: 'https://www.notion.so/48b547bca08a4e55b9cc451cca3129de',
   author: '吴毅',
 
   // open graph metadata (optional)
@@ -26,7 +26,7 @@ module.exports = {
   // page-specific values will override these site-wide defaults
   defaultPageIcon: null,
   defaultPageCover: null,
-  defaultPageCoverPosition: 0.8,
+  defaultPageCoverPosition: 0.5,
 
   // image CDN host to proxy all image requests through (optional)
   // NOTE: this requires you to set up an external image proxy
