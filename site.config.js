@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '9d760b909ffd4e319e464fa7921fb15b',
+  rootNotionPageId: '48b547bca08a4e55b9cc451cca3129de',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '吴毅的博客',
-  domain: 'https://www.notion.so/9d760b909ffd4e319e464fa7921fb15b',
+  domain: 'https://www.notion.so/48b547bca08a4e55b9cc451cca3129de',
   author: '吴毅',
 
   // open graph metadata (optional)
@@ -19,6 +19,7 @@ module.exports = {
   // social usernames (optional)
   //twitter: 'transitive_bs',
   github: 'yuanhenglizhen',
+  csdn: 'yuanhenglizhen110'
   //linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
