@@ -19,7 +19,7 @@ module.exports = {
   // social usernames (optional)
   //twitter: 'transitive_bs',
   github: 'yuanhenglizhen',
-  csdn: 'yuanhenglizhen110'
+  csdn: 'yuanhenglizhen110',
   //linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
