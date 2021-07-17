@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '吴毅的博客',
-  domain: 'https://www.notion.so/48b547bca08a4e55b9cc451cca3129de',
+  domain: 'http://www.wuyiblog.com',
   author: '吴毅',
 
   // open graph metadata (optional)
